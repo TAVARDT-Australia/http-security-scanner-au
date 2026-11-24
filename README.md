@@ -3,7 +3,7 @@
 [![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/au/security-headers-check/)
 Automated technical audit of HTTP security headers aligned with ACSC Essential Eight Maturity Model and Australian Privacy Principles.
 
-Developed and maintained by the cybersecurity and cyber resilience division of **TAVARDT Australia**.
+Developed and maintained by the cybersecurity and cyber resilience division of **TAVARDT**.
 
 ***
 
@@ -32,7 +32,7 @@ python scanner.py example.com.au
 
 ## 3. Online Diagnostic Tools (Australia)
 
-Audit your public infrastructure using the TAVARDT Australia diagnostic suite:
+Audit your public infrastructure using the TAVARDT diagnostic suite:
 
 * HTTP Security Headers Checker
 * [Consent Mode v2 & Privacy Act Validator](https://tools.tavardt.com/au/consent-mode-v2-checker/)
@@ -44,7 +44,7 @@ Audit your public infrastructure using the TAVARDT Australia diagnostic suite:
 
 ## 4. Technical Advisory & Remediation
 
-For enterprise ACSC Essential Eight alignment, penetration testing, and incident response in Australia, contact **TAVARDT Australia**.
+For enterprise ACSC Essential Eight alignment, penetration testing, and incident response in Australia, contact **TAVARDT**.
 
 ***
 
