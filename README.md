@@ -1,6 +1,9 @@
 # HTTP Security Headers Scanner
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/au/security-headers-check/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+
 Automated technical audit of HTTP security headers aligned with ACSC Essential Eight Maturity Model and Australian Privacy Principles.
 
 Developed and maintained by the cybersecurity and cyber resilience division of **TAVARDT**.
@@ -53,6 +56,11 @@ For enterprise ACSC Essential Eight alignment, penetration testing, and incident
 * **Corporate Portal:** https://ag.tavardt.com/au/
 * **Diagnostic Suite:** https://tools.tavardt.com/au/
 * **Technical Contact:** https://ag.tavardt.com/au/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
